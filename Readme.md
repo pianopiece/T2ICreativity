@@ -36,7 +36,7 @@ You need to download the COCO_val2014 image files for evaluation.
 
 ## Requirements
 
-Detailed dependencies are listed in environmnet_*.yml. Download Dinov2 to ```models/models_visual/``` and LLaVA 1.5 7B to ```models/models_lvlm/```.
+Detailed dependencies are listed in environmnet.yml. Download Dinov2 to ```models/models_visual/``` and LLaVA 1.5 7B to ```models/models_lvlm/```.
 
 ## Running
 
