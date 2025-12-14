@@ -1,6 +1,6 @@
 # Evaluation of Text-to-Image Generation from a Creativity Perspective
 
-The official repo of paper [Evaluation of Text-to-Image Generation from a Creativity Perspective]().
+The official repo of paper [Evaluation of Text-to-Image Generation from a Creativity Perspective](https://aclanthology.org/2025.findings-emnlp.26/).
 ![metric](./metric.jpg)
 
 ## Authors
