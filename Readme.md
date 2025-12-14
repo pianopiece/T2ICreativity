@@ -58,6 +58,15 @@ Finally, Run it.
 ## Citation
 
 If our paper or code is helpful to you, please consider citing our work:
+```
+@inproceedings{wang2025evaluation,
+  title={Evaluation of Text-to-Image Generation from a Creativity Perspective},
+  author={Wang, Xinhao and Ma, Xinyu and Ding, ShengYong and Wong, Derek F},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2025},
+  pages={481--493},
+  year={2025}
+}
+```
 
 ## Contact
 
